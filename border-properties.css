@@ -1,0 +1,21 @@
+h1{
+    border-width:3px;
+    border-style:solid;
+    /* border-style:dotted; */
+    /* border-style:dashed;  */
+    /* border-style:double;  */
+    /* border-style:groove;  */
+    /* border-style:ridge;  */
+    /* border-style:inset;  */
+    /* border-style:outset;  */
+    /* border-style:none;  */
+
+    border-color:red;
+}
+h2{
+    border-width:3px;
+    border-style:solid dotted dashed inset;
+    border-color:green;
+    /*  border-bottom:3px solid red; 
+         border-top:3px dashed green; */
+}
